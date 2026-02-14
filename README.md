@@ -1,6 +1,9 @@
 # News-Watcher
 From basic Python → autonomous local AI workflows. All cost-free, offline, using Ollama.
 
+**I will documenting this process on notion which will be shared**
+https://www.notion.so/Singapore-News-Watcher-3019c6c05e9e80caabc6c3b5bfe839b2?source=copy_link
+
 **Flagship Project: Singapore News Digest Agent**  
 A lightweight agent that:  
 - Pulls RSS feeds from CNA, Straits Times, Business Times (focusing on tech, economy, health — boosted by Singapore's 2025–2026 AI-driven growth)  
